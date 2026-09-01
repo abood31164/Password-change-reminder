@@ -14,9 +14,12 @@
       "backgroundColor": "#05070D"
     },
     "ios": {
-      "supportsTablet": false
+      "supportsTablet": false,
+      "bundleIdentifier": "com.abood31164.passwordreminder"
     },
-    "android": {},
+    "android": {
+      "package": "com.abood31164.passwordreminder"
+    },
     "web": {
       "favicon": "./assets/images/icon.png"
     },
